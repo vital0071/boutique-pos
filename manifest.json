@@ -1,0 +1,28 @@
+{
+  "name": "BoutiquePOS Pro",
+  "short_name": "BoutiquePOS",
+  "description": "Application POS complète pour boutiques — gestion des ventes, produits, clients et rapports",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0d0f1a",
+  "theme_color": "#0d0f1a",
+  "lang": "fr",
+  "categories": ["business", "productivity", "finance"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
